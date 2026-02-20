@@ -86399,7 +86399,7 @@ n=A.dl(h,g?16:24,h)
 m=A.aKN(g,f)
 if(g)l=15
 else l=f?17:19
-l=A.aH("A lifelong student and AI innovator, specialized in building high-performance Flutter applications integrated with LLMs, Computer Vision, and RAG architectures since May 2024.",h,h,h,m.Gy(A.u(217,255,255,255),l,1.5),h,h)
+l=A.aH("A lifelong student and AI innovator, specialized in building high-performance Flutter applications integrated with LLMs and Computer Vision, while actively learning RAG architectures since May 2024.",h,h,h,m.Gy(A.u(217,255,255,255),l,1.5),h,h)
 m=t.p
 l=A.a([q,p,new A.He("Flutter Architect & AI Enthusiast and Learning Everyday",o,h),n,l,A.dl(h,g?32:40,h)],m)
 if(!g)B.b.F(l,A.a([i.M9(f),B.Wy],m))
