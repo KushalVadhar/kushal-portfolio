@@ -89,10 +89,9 @@ class AppConstants {
 
   // ========== PERSONAL INFO ==========
   static const String fullName = 'Kushal Vadhar';
-  static const String title =
-      'Flutter Architect & AI Enthusiast and Learning Everyday';
+  static const String title = 'Flutter Architect & AI Enthusiast';
   static const String tagline =
-      'A lifelong student and AI innovator, specialized in building high-performance Flutter applications integrated with LLMs, Computer Vision, and RAG architectures since May 2024.';
+      'A lifelong student and AI innovator, specialized in building high-performance Flutter applications integrated with LLMs and Computer Vision, while actively learning RAG architectures since May 2024.';
   static const String location = 'India';
 
   // ========== PERSONALIZATION PILLARS ==========
@@ -107,5 +106,5 @@ class AppConstants {
 
   // ========== TYPOGRAPHY ==========
   static const String fontFamily = 'San Francisco';
-  static final DateTime careerStartDate = DateTime(2024, 5);
+  static final DateTime careerStartDate = DateTime(2024, 1);
 }
