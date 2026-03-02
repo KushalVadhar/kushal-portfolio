@@ -86401,7 +86401,7 @@ if(g)l=15
 else l=f?17:19
 l=A.aH("A lifelong student and AI innovator, specialized in building high-performance Flutter applications integrated with LLMs and Computer Vision, while actively learning RAG architectures since May 2024.",h,h,h,m.Gy(A.u(217,255,255,255),l,1.5),h,h)
 m=t.p
-l=A.a([q,p,new A.He("Flutter Architect & AI Enthusiast and Learning Everyday",o,h),n,l,A.dl(h,g?32:40,h)],m)
+l=A.a([q,p,new A.He("Flutter Architect & AI Enthusiast",o,h),n,l,A.dl(h,g?32:40,h)],m)
 if(!g)B.b.F(l,A.a([i.M9(f),B.Wy],m))
 q=A.bQ(12)
 p=t.V
@@ -98539,9 +98539,9 @@ r($,"aX_","aHy",()=>A.aP([B.a2D,new A.a0L(),B.a2V,new A.a0M(),B.a2B,new A.a0N()]
 s($,"b0Q","aKb",()=>{var q=t.K
 return new A.ahd(new A.a1B(A.C(q,A.a8("al<c0>")),A.C(q,t.V4)))})
 s($,"b0U","aKc",()=>new A.acK(A.C(t.N,A.a8("al<c0?>?(c0?)"))))
-s($,"aX2","aHA",()=>{var q=A.aOT(2024,5,1,0,0,0,0,0,!1)
+s($,"aX2","aHA",()=>{var q=A.aOT(2024,1,1,0,0,0,0,0,!1)
 if(q==null)q=864e14
-if(q===864e14)A.ad(A.dt("(2024, 5, 1, 0, 0, 0, 0, 0)",null))
+if(q===864e14)A.ad(A.dt("(2024, 1, 1, 0, 0, 0, 0, 0)",null))
 return new A.f3(q,0,!1)})
 r($,"aX5","t3",()=>{var q=null
 return A.bM(q,q,B.h.oF(0.9),q,q,q,q,q,"San Francisco",q,q,14,q,q,B.n,q,1.6,!0,q,q,q,q,q,q,q,q)})
